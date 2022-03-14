@@ -71,28 +71,11 @@ footer{
     position: absolute;
 }
 
-.login{
+.menu{
     color: black ; 
     text-decoration: none;
 }
 
-.login:hover{
-    color: blue;
-}
-
-.home{
-    color: black;
-    text-decoration: none;
-}
-
-.home:hover{
-    color: blue;
-}
-
-.buku{
-    color: black;
-    text-decoration: none;
-}
-.buku:hover{
+.menu:hover{
     color: blue;
 }
